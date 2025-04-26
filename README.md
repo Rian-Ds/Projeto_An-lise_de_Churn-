@@ -128,4 +128,12 @@ ________________________________________________________________________________
   5ª Etapa - - Elaboração dos Dashbords para exibir os principais fatores do objetivo. 
 
   - Arquivo (projeto_churn.pbix)
+
+   Home: - ![image](https://github.com/user-attachments/assets/5e6d38d5-4071-4128-923b-8924226790fb)
+   Relatório Cliente: ![image](https://github.com/user-attachments/assets/631aecea-49f8-40d3-b178-8fdf83b89017)
+   Relatório Final: ![image](https://github.com/user-attachments/assets/3f7ef18d-53c9-4adc-8b9c-ae84918312b2)
+
+
+  - 
+
   
